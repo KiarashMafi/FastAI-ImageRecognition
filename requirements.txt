@@ -1,1 +1,4 @@
-
+gradio~=5.46.1
+pandas~=2.3.2
+pillow~=11.3.0
+fastai
